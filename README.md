@@ -5,7 +5,7 @@
 1. Java 11 or above should be present and environment variable should be set in the local system.
 2. Maven should be present and environment variable should be set in the local system.
 
-### Selenium-Maven-Cucumber-TestNG framework.
+### TestNG tests.
 
 * Used maven as it can easily handle the entire lifecycle of a project.
 * Added Log4j Api to generate log files.
